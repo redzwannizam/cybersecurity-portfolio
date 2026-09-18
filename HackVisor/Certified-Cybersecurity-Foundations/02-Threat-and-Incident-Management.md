@@ -2,9 +2,9 @@
 
 
 
-\*\*Platform:\*\* HackVisor  
+\*\*Platform:\*\* HackVisor
 
-\*\*Program:\*\* Certified Cybersecurity Foundations  
+\*\*Program:\*\* Certified Cybersecurity Foundations
 
 \*\*Status:\*\* ✅ Completed
 
@@ -553,4 +553,28 @@ incidents.
 \- Security Operations Fundamentals
 
 \- Security Monitoring Concepts
+
+
+
+\---
+
+
+
+\## Evidence
+
+
+
+\### Cyber Kill Chain
+
+
+
+!\[Cyber Kill Chain Module Completion](./screenshots/cyber-kill-chain-completed.png)
+
+
+
+\### Incident Response Lifecycle
+
+
+
+!\[Incident Response Lifecycle Module Completion](./screenshots/incident-response-lifecycle-completed.png)
 
