@@ -2,9 +2,9 @@
 
 
 
-\*\*Platform:\*\* HackVisor  
+\*\*Platform:\*\* HackVisor
 
-\*\*Program:\*\* Certified Cybersecurity Foundations  
+\*\*Program:\*\* Certified Cybersecurity Foundations
 
 \*\*Status:\*\* ✅ Completed
 
@@ -213,4 +213,20 @@ Similarly, understanding different cybersecurity fields helps security professio
 \- Threat Awareness
 
 \- Security Career Awareness
+
+
+
+\---
+
+
+
+\## Evidence
+
+
+
+\### Module Completion
+
+
+
+!\[Introduction Module Completion](./screenshots/introduction-completed.png)
 
